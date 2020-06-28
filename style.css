@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bodystyle {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.logostyle {
+    height: 45px;
+}
+
+.carousel-inner {
+    height: 450px;
+}
+
+.card {
+    border: none;
+}
+
+.mstyle {
+    width: 100%;
+    height: 450px;
+    background: url('img/11.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 200px;
+    margin: 20px 0 40px 0 !important;
+}
+
+.fa-youtube-play {
+    color: red;
+}
+
+.fa-twitter-square {
+    color: deepskyblue;
+}
+
+footer {
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+
+footer li {
+    list-style-type: none;
+}
+
+footer a {
+    text-decoration: none;
+    color: slategray;
+}
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-instagram{
+    color: red;
+}
+.fa-linkedin-square{
+    color: #3b5998;
+}
